@@ -1,5 +1,7 @@
 # Pihole_Big_Block_List
-List of pihole block lists thanks to https://firebog.net/. The list was trimed so if you want to
+List of pihole block lists thanks to https://firebog.net/.
+
+Pi-hole is a self-hosted network wide ad blocking software, https://pi-hole.net/
 
 
 **Suspicious Lists**
